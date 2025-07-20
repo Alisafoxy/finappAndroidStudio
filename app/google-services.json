@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465980613968",
+    "project_id": "finapro-b9197",
+    "storage_bucket": "finapro-b9197.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465980613968:android:928929404c8b03e2ebb855",
+        "android_client_info": {
+          "package_name": "com.dtafox.finalappro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsMCr7E2Ewu6ekmOHan4uyvFPX5Z7pSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

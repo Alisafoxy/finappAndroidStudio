@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">finalappro</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="user_logon_state">user_logon_state</string>
+    <string name="login_button">התחברות</string>
+    <string name="title_register">הרשמה</string>
+    <string name="hint_full_name">שם מלא</string>
+    <string name="hint_email">אימייל</string>
+    <string name="hint_password">סיסמה</string>
+    <string name="hint_confirm_password">אישור סיסמה</string>
+    <string name="button_register">צור חשבון</string>
+    <string name="add_task_title">הוספת משימה</string>
+    <string name="task_title_hint">שם המשימה</string>
+    <string name="task_description_hint">תיאור קצר</string>
+    <string name="task_date_hint">תאריך (למשל: 2025-06-20)</string>
+    <string name="save_task">שמור משימה</string>
+    <string name="task_list_title">רשימת משימות</string>
+    <string name="task_list_description">רשימת המשימות של המשתמש</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <!-- Profile Screen Strings -->
+    <string name="profile_title">Profile</string>
+    <string name="user_information">User Information</string>
+    <string name="email_hint">Email</string>
+    <string name="name_hint">Name</string>
+    <string name="gender_label">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="age_hint">Age</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="logout">Logout</string>
+    <string name="name_required">Name is required</string>
+    <string name="age_invalid">Please enter a valid age</string>
+    <string name="profile_saved">Profile saved successfully!</string>
+    <string name="profile_save_failed">Failed to save profile</string>
+    <string name="logout_failed">Logout failed</string>
+    <string name="no_user_logged_in">No user logged in</string>
+    
+    <!-- Login/Register Navigation -->
+    <string name="or">or</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account? Sign in</string>
+    
+    <!-- Task Management -->
+    <string name="no_tasks_message">No tasks yet. Add your first task!</string>
+    <string name="task_deleted">Task deleted successfully</string>
+    <string name="delete_task_error">Failed to delete task</string>
+    <string name="task_saved_success">Task saved successfully!</string>
+    <string name="loading_tasks">Loading tasks...</string>
+    <string name="title_required">Title is required</string>
+    <string name="description_required">Description is required</string>
+    <string name="date_required">Date is required</string>
+    <string name="date_hint_example">e.g., 2024-01-15 or January 15, 2024</string>
+</resources>
